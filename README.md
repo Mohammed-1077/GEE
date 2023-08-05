@@ -1,0 +1,2 @@
+# A cloud-based (Google Earth Engine) Application 
+offering to the nontechnical users with limited resources, including low storage capacity, a low internet connection, and low computing power, to analyze and trend data from Sentinel-2 and Landsat 8 satellite images. The application will allow users to apply the Normalized Difference Vegetation Index (NDVI), Normalized Burn Ratio (NBR), and Normalized Difference Water Index (NDWI) to the data and perform results.
