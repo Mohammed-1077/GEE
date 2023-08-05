@@ -1,11 +1,3 @@
-// ### Importing Modules ###
-
-// RGB time series charting module: 
-var rgbTs = require(
-  'users/mohammedabdalslam84/GEO_INF:series');
-  
-  
-  
 var sensorInfo = {
   'Landsat-8 SR': {
     id: 'LANDSAT/LC08/C01/T1_SR',
